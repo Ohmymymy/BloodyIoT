@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res"/><source path="D:\AndroidStudioProjects\BloodyIoT\app\build\generated\res\rs\debug"/><source path="D:\AndroidStudioProjects\BloodyIoT\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\AndroidStudioProjects\BloodyIoT\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res"><file name="ad_hoc" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\ad_hoc.gif" qualifiers="" type="drawable"/><file name="back_blue" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\back_blue.png" qualifiers="" type="drawable"/><file name="back_green" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\back_green.png" qualifiers="" type="drawable"/><file name="back_red" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\back_red.png" qualifiers="" type="drawable"/><file name="bg" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\bg.jpg" qualifiers="" type="drawable"/><file name="bkgd" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\bkgd.jpg" qualifiers="" type="drawable"/><file name="btn_fm_decrease" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\btn_fm_decrease.png" qualifiers="" type="drawable"/><file name="btn_fm_increase" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\btn_fm_increase.png" qualifiers="" type="drawable"/><file name="button" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\button.png" qualifiers="" type="drawable"/><file name="computer" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\computer.png" qualifiers="" type="drawable"/><file name="gimp" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\gimp.png" qualifiers="" type="drawable"/><file name="green" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\green.png" qualifiers="" type="drawable"/><file name="green_new" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\green_new.png" qualifiers="" type="drawable"/><file name="icon" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\icon.png" qualifiers="" type="drawable"/><file name="infrastructure" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\infrastructure.gif" qualifiers="" type="drawable"/><file name="iot" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\iot.png" qualifiers="" type="drawable"/><file name="leaf" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\leaf.png" qualifiers="" type="drawable"/><file name="leaf_new" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\leaf_new.png" qualifiers="" type="drawable"/><file name="leaf_water" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\leaf_water.png" qualifiers="" type="drawable"/><file name="let" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\let.png" qualifiers="" type="drawable"/><file name="let_bright" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\let_bright.png" qualifiers="" type="drawable"/><file name="let_dark" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\let_dark.png" qualifiers="" type="drawable"/><file name="mumule" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\mumule.png" qualifiers="" type="drawable"/><file name="notepad" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\notepad.png" qualifiers="" type="drawable"/><file name="phone" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\phone.png" qualifiers="" type="drawable"/><file name="progressbar" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\progressbar.xml" qualifiers="" type="drawable"/><file name="satgreen" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\satgreen.png" qualifiers="" type="drawable"/><file name="satred" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\satred.png" qualifiers="" type="drawable"/><file name="tab_a" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\tab_a.png" qualifiers="" type="drawable"/><file name="tab_b" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\tab_b.png" qualifiers="" type="drawable"/><file name="tab_c" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\tab_c.png" qualifiers="" type="drawable"/><file name="unknown" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\unknown.png" qualifiers="" type="drawable"/><file name="water" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\water.png" qualifiers="" type="drawable"/><file name="yellow" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable\yellow.png" qualifiers="" type="drawable"/><file name="ic_launcher" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="clientlist" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\layout\clientlist.xml" qualifiers="" type="layout"/><file name="main" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="management" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\layout\management.xml" qualifiers="" type="layout"/><file name="smartconnection" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\layout\smartconnection.xml" qualifiers="" type="layout"/><file name="main" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="working_mode_video_channels_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array><string-array name="matv_nr_level_values">
+		<item>31</item>
+		<item>32</item>
+		<item>33</item>
+		<item>34</item>
+		<item>35</item>
+	</string-array><string-array name="tx_channels">
+        <item>Single Frequency</item>
+        <item>79 Channel</item>
+    </string-array><string-array name="working_mode_use_wnsrp">
+        <item>No Change</item>
+        <item>OFF</item>
+        <item>ON</item>
+    </string-array><string-array name="hopping_time">
+		<item>30.5us</item>
+		<item>61.0us</item>
+		<item>122.1us</item>
+		<item>244.1us</item>
+		<item>488.3us</item>
+	</string-array><string-array name="mode_level">
+        <item>Level 0</item>
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+        <item>Level 4</item>
+        <item>Level 5</item>
+        <item>Level 6</item>
+    </string-array><string-array name="bt_ble_test_pattern">
+        <item>PRBS9</item>
+        <item>11110000</item>
+        <item>10101010</item>      
+    </string-array><string-array name="working_mode_terminal_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array><string-array name="msdc_select">
+		<item>Driving SET</item>
+		<item>Hopping SET</item>
+	</string-array><string-array name="working_mode_audio_channels_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array><string-array name="gsm_umts_network_preferences_values">
+        <item>"0"</item>
+        <item>"2"</item>
+        <item>"1"</item>
+        
+    </string-array><string-array name="anti_flicker_dialog">
+        <item>50HZ</item>
+        <item>60HZ</item>
+    </string-array><string-array name="hopping_bit">
+		<item>None</item>
+		<item>2.26MHZ</item>
+		<item>4.52MHZ</item>
+		<item>9.04MHZ</item>
+	</string-array><string-array name="card_emul_mode_type">
+		<item>MifareUL</item>
+		<item>MifareStd</item>
+		<item>ISO14443_4A</item>
+		<item>ISO14443_4B</item>
+		<item>Jewel</item>
+		<item>Felica</item>
+		<item>ISO15693</item>
+	</string-array><string-array name="nsrx_Pocket_type">
+        <item>DM1(0x03)</item>
+        <item>DH1(0x04)</item>
+        <item>DM3(0x0A)</item>
+        <item>DH3(0x0B)</item>
+        <item>DM5(0x0E)</item>
+        <item>DH5(0x0F)</item>
+        <item>2-DH1(0x24)</item>
+        <item>3-DH1(0x28)</item>
+        <item>2-DH3(0x2A)</item>
+        <item>3-DH3(0x2B)</item>
+        <item>2-DH5(0x2E)</item>
+        <item>3-DH5(0x2F)</item>
+    </string-array><string-array name="mTddPreferredNetworkLabels">
+		<item>GSM/TD-SCDMA(auto)</item>
+		<item>TD-SCDMA preferred</item>
+		<item>TD-SCDMA only</item>
+		<item>GSM only</item>
+                <item>Not Specified</item>
+	</string-array><string-array name="bt_baudrate">
+	    <item>9600</item>
+	    <item>19200</item>
+	    <item>38400</item>
+	    <item>57600</item>
+	    <item>115200</item>
+	    <item>230400</item>
+	    <item>460800</item>
+	    <item>500000</item>	
+	    <item>576000</item>
+	    <item>921600</item>				
+	</string-array><string-array name="working_mode_video_channels">
+        <item>No Change</item>
+        <item>AL2 WithSeqNum</item>
+        <item>AL2 WithoutSeqNum</item>
+        <item>AL3 ControlFieldSize0</item>
+        <item>AL3 ControlFieldSize1</item>
+        <item>AL3 ControlFieldSize2</item>
+    </string-array><string-array name="always_on_module">
+		<item>Type A</item>
+		<item>Type B</item>
+		<item>Type F</item>
+		<item>No modulation</item>
+	</string-array><string-array name="modem_test_operator_options">
+        <item>MS_USIM_COMPATIPLE</item>
+    </string-array><string-array name="working_mode_video_codec_preference_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array><string-array name="nsrx_pattern">
+        <item>0000</item>
+        <item>1111</item>
+        <item>1010</item>
+        <item>Pseudo random bit</item>
+        <item>11110000</item>
+    </string-array><string-array name="working_mode_audio_channels">
+        <item>No Change</item>
+        <item>AL2 WithSeqNum</item>
+        <item>AL2 WithoutSeqNum</item>
+        <item>AL3 ControlFieldSize0</item>
+        <item>AL3 ControlFieldSize1</item>
+        <item>AL3 ControlFieldSize2</item>
+    </string-array><string-array name="working_mode_multiplex_level">
+        <item>No Change</item>
+        <item>MuxLevel 0</item>
+        <item>MuxLevel 1</item>
+        <item>MuxLevel 1 With Double Flag</item>
+        <item>MuxLevel 2</item>
+        <item>MuxLevel 2 With Optional Header</item>
+        <item>MuxLevel 3</item>
+        <item>MuxLevel 3 With Optional Header</item>
+    </string-array><string-array name="camera_items">
+        <item>AF EM</item>
+        <item>Raw Capture Mode</item>
+        <item>Raw Type</item>
+        <item>Flicker</item>
+        <item>ISO</item>
+        <item>Start Preview</item>
+        <item>Help</item>
+    </string-array><string-array name="bt_chip_eco">
+	    <item>UNKNOWN</item>
+	    <item>E1</item>
+	    <item>E2</item>
+	    <item>E3</item>
+	    <item>E4</item>
+	    <item>E5</item>
+	    <item>E6</item>
+	    <item>E7</item>				
+	</string-array><string-array name="working_mode_video_codec_preference">
+        <item>No Change</item>
+        <item>MPEG4_H263</item>
+        <item>H263_MPEG4</item>
+    </string-array><string-array name="working_mode_use_wnsrp_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array><string-array name="working_mode_video_channels_reverse_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array><string-array name="bt_uart">
+	    <item>UART1</item>
+	    <item>UART2</item>
+	    <item>UART3</item>
+	    <item>UART4</item>			
+	</string-array><string-array name="modem_test_cta_options">
+        <item>Integrity Check</item>
+        <item>RLC TL1</item>
+        <item>K1297</item>
+        <item>SN Conflict</item>
+        <item>CF query</item>
+        <item>DLMN lock</item>
+        <item>Measurement open</item>
+        <item>Disable DPA</item>
+        <item>Intra CMR</item>
+    </string-array><string-array name="modem_test_iot_options">
+        <item>Fast Dormancy</item>
+    </string-array><string-array name="tx_pattern">
+        <item>0000</item>
+        <item>1111</item>
+        <item>1010</item>
+        <item>Pseudo random bit</item>
+        <item>11110000</item>
+    </string-array><string-array name="always_on_bitrate">
+		<item>106 kbps</item>
+		<item>212 kbps</item>
+		<item>424 kbps</item>
+	</string-array><string-array name="working_mode_terminal_type">
+        <item>No Change</item>
+        <item>Normal</item>
+        <item>Master</item>
+        <item>Slave</item>
+    </string-array><string-array name="tvout_system_list" translatable="false">
+        <item>PAL</item>
+        <item>NTSC</item>
+    </string-array><string-array name="matv_frame_rate_values">
+		<item>30</item>
+		<item>20</item>
+		<item>15</item>
+	</string-array><string-array name="mPreferredNetworkLabels">
+		<item>GSM/WCDMA (auto)</item>
+		<item>GSM/WCDMA (WCDMA preferred)</item>
+		<item>WCDMA only</item>
+		<item>GSM only</item>
+                <item>Not Specified</item>
+	</string-array><string-array name="working_mode_video_channels_reverse">
+        <item>No Change</item>
+        <item>Reverse Data</item>
+        <item>Reverse NULL</item>
+    </string-array><string-array name="tvout_page_list" translatable="false">
+        <item>0_white_level</item>
+        <item>1_luma_bw"</item>
+        <item>2_luma_linear_distortion</item>
+        <item>3_chroma_snr</item>
+        <item>4_diff_gain</item>
+        <item>5_color_bar</item>
+        <item>6_luma_nonlinearity</item>
+    </string-array><string-array name="rx_Pocket_type">
+        <item>NULL</item>
+        <item>POLL</item>
+        <item>FHS</item>
+        <item>DM1</item>
+        <item>DH1</item>
+        <item>HV1</item>
+        <item>HV2</item>
+        <item>HV3</item>
+        <item>DV</item>
+        <item>AUX</item>
+        <item>DM3</item>
+        <item>DH3</item>
+        <item>DM5</item>
+        <item>DH5</item>
+        <item>EV3</item>
+        <item>EV4</item>
+        <item>EV5</item>
+    </string-array><string-array name="host_type">
+		<item>Host Number 0</item>
+		<item>Host Number 1</item>
+		<item>Host Number 2</item>
+		<item>Host Number 3</item>
+	</string-array><string-array name="mode_type2">
+        <item>Ring</item>
+        <item>Sip</item>
+        <item>Mic</item>
+        <item>FMR</item>
+        <item>Sph</item>
+        <item>Sid</item>
+        <item>Media</item>
+        <item>Matv</item>
+    </string-array><string-array name="iso_dialog">
+        <item>AUTO</item>
+        <item>ISO100</item>
+        <item>ISO150</item>
+        <item>ISO200</item>
+        <item>ISO300</item>
+        <item>ISO400</item>
+        <item>ISO600</item>
+        <item>ISO800</item>
+        <item>ISO1600</item>
+    </string-array><string-array name="device_mgr_entries">
+        <item>Disable</item>
+        <item>Enable</item>
+    </string-array><string-array name="mode_type1">
+        <item>Sip</item>
+        <item>Mic</item>
+        <item>FMR</item>
+        <item>Sph</item>
+        <item>Sid</item>
+        <item>Media</item>
+        <item>Matv</item>
+    </string-array><string-array name="raw_type_dialog">
+        <item>Processed Raw</item>
+        <item>Pure Raw</item>
+    </string-array><string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/TD (auto mode)</item>
+        <item>TD only</item>
+        <item>GSM only</item>
+    </string-array><string-array name="mode_type0">
+        <item>Sip</item>
+        <item>Mic</item>
+        <item>Sph</item>
+        <item>Sid</item>
+        <item>Media</item>
+    </string-array><string-array name="log_filter_tags">
+        <item>VT_DEFAULT</item>
+        <item>VT_VTS_CLIENT</item>
+        <item>VT_VTS_SERVICE</item>
+        <item>VT_SWIP</item>
+        <item>VT_MAL</item>
+        <item>TAG_5</item>
+        <item>TAG_6</item>
+    </string-array><string-array name="device_mgr_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array><string-array name="capture_mode_dialog">
+        <item>Preview Mode</item>
+        <item>Capture Mode</item>
+        <item>JPEG Only</item>
+    </string-array><string-array name="mode_fir">
+        <item>FIR 0</item>
+        <item>FIR 1</item>
+        <item>FIR 2</item>
+        <item>FIR 3</item>
+        <item>FIR 4</item>
+        <item>FIR 5</item>
+    </string-array><string-array name="tx_Pocket_type">
+        <item>NULL(0x00)</item>
+        <item>POLL(0x01)</item>
+        <item>FHS(0x02)</item>
+        <item>DM1(0x03)</item>
+        <item>DH1(0x04)</item>
+        <item>HV1(0x05)</item>
+        <item>HV2(0x06)</item>
+        <item>HV3(0x07)</item>
+        <item>DV(0x08)</item>
+        <item>AUX(0x09)</item>
+        <item>DM3(0x0A)</item>
+        <item>DH3(0x0B)</item>
+        <item>DM5(0x0E)</item>
+        <item>DH5(0x0F)</item>
+        <item>EV3(0x17)</item>
+        <item>EV4(0x1C)</item>
+        <item>EV5(0x1D)</item>
+        <item>2-DH1(0x24)</item>
+        <item>3-DH1(0x28)</item>
+        <item>2-DH3(0x2A)</item>
+        <item>3-DH3(0x2B)</item>
+        <item>2-DH5(0x2E)</item>
+        <item>3-DH5(0x2F)</item>
+        <item>2-EV3(0x36)</item>
+        <item>3-EV3(0x37)</item>
+        <item>2-EV5(0x3C)</item>
+        <item>3-EV5(0x3D)</item>
+        <item>non-modulated</item>
+    </string-array><string-array name="matv_nr_level_entries">
+		<item>NR Level 0x31</item>
+		<item>NR Level 0x32</item>
+		<item>NR Level 0x33</item>
+		<item>NR Level 0x34</item>
+		<item>NR Level 0x35</item>
+	</string-array><string-array name="command_data">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+	</string-array><string-array name="speech_enhance_mode">
+        <item>Common Parameter</item>
+        <item>Normal Mode</item>
+        <item>Headset Mode</item>
+        <item>LoudSpeaker Mode</item>
+        <item>BT Earphone Mode</item>
+        <item>BT Cordless Mode</item>
+        <item>BT Karkit Mode</item>
+        <item>AUX1 Mode</item>
+        <item>AUX2 Mode</item>
+    </string-array><string-array name="audio_functions">
+        <item>Normal Mode</item>
+        <item>Headset Mode</item>
+        <item>LoudSpeaker Mode</item>
+        <item>Speech Enhancement</item>
+        <item>Debug Info</item>
+        <item>Speech Logger</item>
+        <item>Audio Logger</item>
+    </string-array><string-array name="host_data">
+		<item>4 mA</item>
+		<item>8 mA</item>
+		<item>12 mA</item>
+		<item>16 mA</item>
+	</string-array><string-array name="working_mode_multiplex_level_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array><string-array name="card_emul_mode_prot">
+		<item>ISO14443A</item>
+		<item>ISO14443B</item>
+		<item>Felica212</item>
+		<item>Felica424</item>
+		<item>ISO15693</item>
+	</string-array><string-array name="bt_chip_id">
+	    <item>MT6611</item>
+	    <item>MT6612</item>
+	    <item>MT6616</item>
+	    <item>MT6620</item>
+	    <item>MT6622</item>
+	    <item>MT6626</item>
+	    <item>MT6628</item>				
+	</string-array><string-array name="af_mode_dialog">
+        <item>Normal AF</item>
+        <item>AF Bracket</item>
+        <item>Full Scan</item>
+        <item>Full Scan Repeat</item>
+        <item>AF Repeat</item>
+        <item>AF and Full Repeat</item>
+    </string-array><string-array name="matv_frame_rate_entries">
+		<item>Frame Rate 30</item>
+		<item>Frame Rate 20</item>
+		<item>Frame Rate 15</item>
+	</string-array></file><file path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\values\colors.xml" qualifiers=""><color name="sigview_line_color">#FFDDDDDD</color><color name="bar_outline">#FFFFFFFF</color><color name="skyview_background">#FF4444DD</color><color name="skyview_text_color">#FFFFFFFF</color><color name="grid">#FFDDDDDD</color><color name="sigview_text_color">#FFFFFFFF</color><color name="light_gray">#FF303030</color><color name="gray">#FF909090</color><color name="bar_used">#FF00BB00</color><color name="bar_unused">#FFFFCC33</color><color name="sigview_background">#FF222222</color></file><file path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\values\strings.xml" qualifiers=""><string name="client_offline">OffLine</string><string name="uart_tx">Uart Tx </string><string name="identify">Identify</string><string name="app_name_ver">IoT Manager v0.94_1</string><string name="temp">:</string><string name="port_hint">7681</string><string name="friendid_ipaddr_view">Friend ID </string><string name="ctrl_password_edit"/><string name="stop_button">Stop\nAPI:StopSmartConnection()</string><string name="gpio_list">0 1 2 3 </string><string name="uart_rx">Uart Rx </string><string name="set_gpio">SetGPIO</string><string name="set_ctrl_password">SET</string><string name="gpio_list_name">GPIO List:</string><string name="ipaddrdefault_hint">192.168.0.99</string><string name="gpio_values">0 0 0 0 </string><string name="ssid_view">Ssid</string><string name="ipaddr_edit">182.148.123.91</string><string name="ipaddr_name">IP Addr: </string><string name="internet_ipaddr_view">IoT Server </string><string name="pwd_check">Show Password</string><string name="gpio_set_values_name">Set Values:</string><string name="authmode_view"/><string name="authmode_text">AuthMode</string><string name="input_hint">Please input ...</string><string name="port_view">Port</string><string name="ctrl_password_view">Ctrl PWD</string><string name="network_type_view">NetType</string><string name="app_name">Mediatek IoT Manager</string><string name="password_view">Password</string><string name="start_button">Start\nAPI:StartSmartConnection()</string><string name="add_friend">Add</string><string name="init_server">Init Server</string><string name="password_edit"/><string name="device_status">ON</string><string name="query_clientlist">QueryClients</string><string name="query_gpio">QueryGPIO</string><string name="gpio_get_values_name">Get Values:</string><string name="port_edit">7681</string><string name="friendid_edit">00:0c:43:12:34:dd </string><string name="ssid_edit">Mediatek</string><string name="identify_edit"/></file><file path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\values\styles.xml" qualifiers=""><style name="style_table_right">
+        <item name="android:gravity">right</item>
+        <item name="android:paddingRight">10dip</item>
+    </style><style name="style_table_left">
+        <item name="android:paddingLeft">10dip</item>
+    </style></file><file path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file></source><source path="D:\AndroidStudioProjects\BloodyIoT\app\build\generated\res\rs\debug"/><source path="D:\AndroidStudioProjects\BloodyIoT\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\AndroidStudioProjects\BloodyIoT\app\src\debug\res"/></dataSet><mergedItems/></merger>
