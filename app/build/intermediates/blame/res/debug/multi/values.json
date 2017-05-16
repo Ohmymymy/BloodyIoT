@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -12,14 +12,14 @@
                     "endOffset": 314
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 367,
                         "startColumn": 4,
-                        "startOffset": 10934,
+                        "startOffset": 11301,
                         "endLine": 374,
                         "endColumn": 19,
-                        "endOffset": 11193
+                        "endOffset": 11567
                     }
                 }
             },
@@ -33,14 +33,14 @@
                     "endOffset": 447
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 495,
                         "startColumn": 1,
-                        "startOffset": 14206,
+                        "startOffset": 14701,
                         "endLine": 499,
                         "endColumn": 16,
-                        "endOffset": 14334
+                        "endOffset": 14833
                     }
                 }
             },
@@ -54,14 +54,14 @@
                     "endOffset": 602
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 489,
                         "startColumn": 1,
-                        "startOffset": 14054,
+                        "startOffset": 14543,
                         "endLine": 494,
                         "endColumn": 16,
-                        "endOffset": 14204
+                        "endOffset": 14698
                     }
                 }
             },
@@ -75,14 +75,14 @@
                     "endOffset": 720
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 384,
                         "startColumn": 4,
-                        "startOffset": 11490,
+                        "startOffset": 11874,
                         "endLine": 387,
                         "endColumn": 19,
-                        "endOffset": 11603
+                        "endOffset": 11990
                     }
                 }
             },
@@ -96,14 +96,14 @@
                     "endOffset": 1028
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 293,
                         "startColumn": 4,
-                        "startOffset": 8768,
+                        "startOffset": 9061,
                         "endLine": 301,
                         "endColumn": 19,
-                        "endOffset": 9071
+                        "endOffset": 9372
                     }
                 }
             },
@@ -117,14 +117,14 @@
                     "endOffset": 1333
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 1,
-                        "startOffset": 540,
+                        "startOffset": 564,
                         "endLine": 35,
                         "endColumn": 16,
-                        "endOffset": 840
+                        "endOffset": 875
                     }
                 }
             },
@@ -138,14 +138,14 @@
                     "endOffset": 1492
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
-                        "startOffset": 994,
+                        "startOffset": 1038,
                         "endLine": 48,
                         "endColumn": 19,
-                        "endOffset": 1148
+                        "endOffset": 1196
                     }
                 }
             },
@@ -159,14 +159,14 @@
                     "endOffset": 1724
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 1,
-                        "startOffset": 309,
+                        "startOffset": 322,
                         "endLine": 22,
                         "endColumn": 16,
-                        "endOffset": 536
+                        "endOffset": 558
                     }
                 }
             },
@@ -180,14 +180,14 @@
                     "endOffset": 1957
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 1,
-                        "startOffset": 78,
+                        "startOffset": 81,
                         "endLine": 11,
                         "endColumn": 16,
-                        "endOffset": 306
+                        "endOffset": 317
                     }
                 }
             },
@@ -201,14 +201,14 @@
                     "endOffset": 2107
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 1,
-                        "startOffset": 843,
+                        "startOffset": 880,
                         "endLine": 42,
                         "endColumn": 16,
-                        "endOffset": 988
+                        "endOffset": 1030
                     }
                 }
             },
@@ -222,14 +222,14 @@
                     "endOffset": 2376
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 358,
                         "startColumn": 4,
-                        "startOffset": 10665,
+                        "startOffset": 11023,
                         "endLine": 366,
                         "endColumn": 19,
-                        "endOffset": 10929
+                        "endOffset": 11295
                     }
                 }
             },
@@ -243,14 +243,14 @@
                     "endOffset": 2541
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 375,
                         "startColumn": 4,
-                        "startOffset": 11198,
+                        "startOffset": 11573,
                         "endLine": 379,
                         "endColumn": 19,
-                        "endOffset": 11358
+                        "endOffset": 11737
                     }
                 }
             },
@@ -264,14 +264,14 @@
                     "endOffset": 2728
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 509,
                         "startColumn": 1,
-                        "startOffset": 14566,
+                        "startOffset": 15075,
                         "endLine": 515,
                         "endColumn": 16,
-                        "endOffset": 14748
+                        "endOffset": 15263
                     }
                 }
             },
@@ -285,14 +285,14 @@
                     "endOffset": 2961
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 500,
                         "startColumn": 1,
-                        "startOffset": 14336,
+                        "startOffset": 14836,
                         "endLine": 508,
                         "endColumn": 16,
-                        "endOffset": 14564
+                        "endOffset": 15072
                     }
                 }
             },
@@ -306,14 +306,14 @@
                     "endOffset": 3153
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 448,
                         "startColumn": 1,
-                        "startOffset": 13082,
+                        "startOffset": 13530,
                         "endLine": 457,
                         "endColumn": 16,
-                        "endOffset": 13269
+                        "endOffset": 13726
                     }
                 }
             },
@@ -327,14 +327,14 @@
                     "endOffset": 3275
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 269,
                         "startColumn": 4,
-                        "startOffset": 7972,
+                        "startOffset": 8241,
                         "endLine": 272,
                         "endColumn": 19,
-                        "endOffset": 8089
+                        "endOffset": 8361
                     }
                 }
             },
@@ -348,14 +348,14 @@
                     "endOffset": 3385
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 273,
                         "startColumn": 4,
-                        "startOffset": 8094,
+                        "startOffset": 8367,
                         "endLine": 276,
                         "endColumn": 19,
-                        "endOffset": 8199
+                        "endOffset": 8475
                     }
                 }
             },
@@ -369,14 +369,14 @@
                     "endOffset": 3567
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 256,
                         "startColumn": 4,
-                        "startOffset": 7570,
+                        "startOffset": 7826,
                         "endLine": 260,
                         "endColumn": 19,
-                        "endOffset": 7747
+                        "endOffset": 8007
                     }
                 }
             },
@@ -390,14 +390,14 @@
                     "endOffset": 3758
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 261,
                         "startColumn": 4,
-                        "startOffset": 7752,
+                        "startOffset": 8013,
                         "endLine": 266,
                         "endColumn": 19,
-                        "endOffset": 7938
+                        "endOffset": 8204
                     }
                 }
             },
@@ -411,14 +411,14 @@
                     "endOffset": 3902
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 434,
                         "startColumn": 1,
-                        "startOffset": 12774,
+                        "startOffset": 13208,
                         "endLine": 439,
                         "endColumn": 16,
-                        "endOffset": 12913
+                        "endOffset": 13352
                     }
                 }
             },
@@ -432,14 +432,14 @@
                     "endOffset": 4071
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 440,
                         "startColumn": 1,
-                        "startOffset": 12915,
+                        "startOffset": 13355,
                         "endLine": 446,
                         "endColumn": 16,
-                        "endOffset": 13079
+                        "endOffset": 13525
                     }
                 }
             },
@@ -453,14 +453,14 @@
                     "endOffset": 4206
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 427,
                         "startColumn": 1,
-                        "startOffset": 12641,
+                        "startOffset": 13068,
                         "endLine": 432,
                         "endColumn": 16,
-                        "endOffset": 12771
+                        "endOffset": 13203
                     }
                 }
             },
@@ -474,14 +474,14 @@
                     "endOffset": 4375
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 420,
                         "startColumn": 1,
-                        "startOffset": 12474,
+                        "startOffset": 12894,
                         "endLine": 425,
                         "endColumn": 16,
-                        "endOffset": 12638
+                        "endOffset": 13063
                     }
                 }
             },
@@ -495,14 +495,14 @@
                     "endOffset": 4683
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 388,
                         "startColumn": 4,
-                        "startOffset": 11608,
+                        "startOffset": 11996,
                         "endLine": 398,
                         "endColumn": 19,
-                        "endOffset": 11911
+                        "endOffset": 12309
                     }
                 }
             },
@@ -516,14 +516,14 @@
                     "endOffset": 4959
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
-                        "startOffset": 6000,
+                        "startOffset": 6207,
                         "endLine": 215,
                         "endColumn": 19,
-                        "endOffset": 6271
+                        "endOffset": 6486
                     }
                 }
             },
@@ -537,14 +537,14 @@
                     "endOffset": 5194
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 402,
                         "startColumn": 1,
-                        "startOffset": 11966,
+                        "startOffset": 12368,
                         "endLine": 408,
                         "endColumn": 16,
-                        "endOffset": 12196
+                        "endOffset": 12604
                     }
                 }
             },
@@ -558,14 +558,14 @@
                     "endOffset": 5428
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 409,
                         "startColumn": 1,
-                        "startOffset": 12198,
+                        "startOffset": 12607,
                         "endLine": 415,
                         "endColumn": 16,
-                        "endOffset": 12427
+                        "endOffset": 12842
                     }
                 }
             },
@@ -579,14 +579,14 @@
                     "endOffset": 5582
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 465,
                         "startColumn": 1,
-                        "startOffset": 13428,
+                        "startOffset": 13893,
                         "endLine": 469,
                         "endColumn": 16,
-                        "endOffset": 13577
+                        "endOffset": 14046
                     }
                 }
             },
@@ -600,14 +600,14 @@
                     "endOffset": 5702
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 470,
                         "startColumn": 1,
-                        "startOffset": 13579,
+                        "startOffset": 14049,
                         "endLine": 474,
                         "endColumn": 16,
-                        "endOffset": 13694
+                        "endOffset": 14168
                     }
                 }
             },
@@ -621,14 +621,14 @@
                     "endOffset": 5912
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 475,
                         "startColumn": 1,
-                        "startOffset": 13696,
+                        "startOffset": 14171,
                         "endLine": 481,
                         "endColumn": 16,
-                        "endOffset": 13901
+                        "endOffset": 14382
                     }
                 }
             },
@@ -642,14 +642,14 @@
                     "endOffset": 6066
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 482,
                         "startColumn": 1,
-                        "startOffset": 13903,
+                        "startOffset": 14385,
                         "endLine": 488,
                         "endColumn": 16,
-                        "endOffset": 14052
+                        "endOffset": 14540
                     }
                 }
             },
@@ -663,14 +663,14 @@
                     "endOffset": 6283
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 337,
                         "startColumn": 4,
-                        "startOffset": 10016,
+                        "startOffset": 10353,
                         "endLine": 344,
                         "endColumn": 19,
-                        "endOffset": 10228
+                        "endOffset": 10572
                     }
                 }
             },
@@ -684,14 +684,14 @@
                     "endOffset": 6543
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 328,
                         "startColumn": 4,
-                        "startOffset": 9756,
+                        "startOffset": 10084,
                         "endLine": 336,
                         "endColumn": 19,
-                        "endOffset": 10011
+                        "endOffset": 10347
                     }
                 }
             },
@@ -705,14 +705,14 @@
                     "endOffset": 6727
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 302,
                         "startColumn": 4,
-                        "startOffset": 9076,
+                        "startOffset": 9378,
                         "endLine": 308,
                         "endColumn": 19,
-                        "endOffset": 9255
+                        "endOffset": 9563
                     }
                 }
             },
@@ -726,14 +726,14 @@
                     "endOffset": 6962
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 309,
                         "startColumn": 4,
-                        "startOffset": 9260,
+                        "startOffset": 9569,
                         "endLine": 317,
                         "endColumn": 19,
-                        "endOffset": 9490
+                        "endOffset": 9807
                     }
                 }
             },
@@ -747,14 +747,14 @@
                     "endOffset": 7223
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 318,
                         "startColumn": 4,
-                        "startOffset": 9495,
+                        "startOffset": 9813,
                         "endLine": 327,
                         "endColumn": 19,
-                        "endOffset": 9751
+                        "endOffset": 10078
                     }
                 }
             },
@@ -768,14 +768,14 @@
                     "endOffset": 7581
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 237,
                         "startColumn": 4,
-                        "startOffset": 6929,
+                        "startOffset": 7166,
                         "endLine": 247,
                         "endColumn": 19,
-                        "endOffset": 7282
+                        "endOffset": 7529
                     }
                 }
             },
@@ -789,14 +789,14 @@
                     "endOffset": 7685
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
-                        "startOffset": 7428,
+                        "startOffset": 7680,
                         "endLine": 254,
                         "endColumn": 19,
-                        "endOffset": 7527
+                        "endOffset": 7781
                     }
                 }
             },
@@ -810,14 +810,14 @@
                     "endOffset": 7799
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 248,
                         "startColumn": 4,
-                        "startOffset": 7287,
+                        "startOffset": 7535,
                         "endLine": 250,
                         "endColumn": 19,
-                        "endOffset": 7396
+                        "endOffset": 7646
                     }
                 }
             },
@@ -831,14 +831,14 @@
                     "endOffset": 7908
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 459,
                         "startColumn": 1,
-                        "startOffset": 13272,
+                        "startOffset": 13731,
                         "endLine": 462,
                         "endColumn": 16,
-                        "endOffset": 13376
+                        "endOffset": 13838
                     }
                 }
             },
@@ -852,14 +852,14 @@
                     "endOffset": 8355
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 223,
                         "startColumn": 4,
-                        "startOffset": 6482,
+                        "startOffset": 6705,
                         "endLine": 236,
                         "endColumn": 19,
-                        "endOffset": 6924
+                        "endOffset": 7160
                     }
                 }
             },
@@ -873,14 +873,14 @@
                     "endOffset": 8561
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 216,
                         "startColumn": 4,
-                        "startOffset": 6276,
+                        "startOffset": 6492,
                         "endLine": 222,
                         "endColumn": 19,
-                        "endOffset": 6477
+                        "endOffset": 6699
                     }
                 }
             },
@@ -894,14 +894,14 @@
                     "endOffset": 8688
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 380,
                         "startColumn": 4,
-                        "startOffset": 11363,
+                        "startOffset": 11743,
                         "endLine": 383,
                         "endColumn": 19,
-                        "endOffset": 11485
+                        "endOffset": 11868
                     }
                 }
             },
@@ -915,14 +915,14 @@
                     "endOffset": 9175
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
-                        "startOffset": 1155,
+                        "startOffset": 1205,
                         "endLine": 68,
                         "endColumn": 19,
-                        "endOffset": 1637
+                        "endOffset": 1705
                     }
                 }
             },
@@ -936,14 +936,14 @@
                     "endOffset": 9558
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 345,
                         "startColumn": 4,
-                        "startOffset": 10233,
+                        "startOffset": 10578,
                         "endLine": 355,
                         "endColumn": 19,
-                        "endOffset": 10611
+                        "endOffset": 10966
                     }
                 }
             },
@@ -957,14 +957,14 @@
                     "endOffset": 9895
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 282,
                         "startColumn": 4,
-                        "startOffset": 8374,
+                        "startOffset": 8656,
                         "endLine": 290,
                         "endColumn": 19,
-                        "endOffset": 8706
+                        "endOffset": 8996
                     }
                 }
             },
@@ -978,14 +978,14 @@
                     "endOffset": 10031
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 278,
                         "startColumn": 4,
-                        "startOffset": 8238,
+                        "startOffset": 8516,
                         "endLine": 281,
                         "endColumn": 19,
-                        "endOffset": 8369
+                        "endOffset": 8650
                     }
                 }
             },
@@ -999,14 +999,14 @@
                     "endOffset": 10985
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 83,
                         "startColumn": 4,
-                        "startOffset": 2008,
+                        "startOffset": 2091,
                         "endLine": 112,
                         "endColumn": 19,
-                        "endOffset": 2957
+                        "endOffset": 3069
                     }
                 }
             },
@@ -1020,14 +1020,14 @@
                     "endOffset": 11113
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 4,
-                        "startOffset": 1880,
+                        "startOffset": 1959,
                         "endLine": 82,
                         "endColumn": 19,
-                        "endOffset": 2003
+                        "endOffset": 2085
                     }
                 }
             },
@@ -1041,14 +1041,14 @@
                     "endOffset": 11317
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 4,
-                        "startOffset": 1676,
+                        "startOffset": 1748,
                         "endLine": 78,
                         "endColumn": 19,
-                        "endOffset": 1875
+                        "endOffset": 1953
                     }
                 }
             },
@@ -1062,14 +1062,14 @@
                     "endOffset": 11626
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 113,
                         "startColumn": 4,
-                        "startOffset": 2962,
+                        "startOffset": 3075,
                         "endLine": 120,
                         "endColumn": 19,
-                        "endOffset": 3266
+                        "endOffset": 3386
                     }
                 }
             },
@@ -1083,14 +1083,14 @@
                     "endOffset": 11845
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 121,
                         "startColumn": 4,
-                        "startOffset": 3271,
+                        "startOffset": 3392,
                         "endLine": 128,
                         "endColumn": 19,
-                        "endOffset": 3485
+                        "endOffset": 3613
                     }
                 }
             },
@@ -1104,14 +1104,14 @@
                     "endOffset": 12234
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 155,
                         "startColumn": 4,
-                        "startOffset": 4357,
+                        "startOffset": 4512,
                         "endLine": 164,
                         "endColumn": 19,
-                        "endOffset": 4741
+                        "endOffset": 4905
                     }
                 }
             },
@@ -1125,14 +1125,14 @@
                     "endOffset": 12500
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 165,
                         "startColumn": 4,
-                        "startOffset": 4746,
+                        "startOffset": 4911,
                         "endLine": 174,
                         "endColumn": 19,
-                        "endOffset": 5007
+                        "endOffset": 5181
                     }
                 }
             },
@@ -1146,14 +1146,14 @@
                     "endOffset": 12687
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 195,
                         "startColumn": 4,
-                        "startOffset": 5641,
+                        "startOffset": 5836,
                         "endLine": 200,
                         "endColumn": 19,
-                        "endOffset": 5823
+                        "endOffset": 6023
                     }
                 }
             },
@@ -1167,14 +1167,14 @@
                     "endOffset": 12859
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 201,
                         "startColumn": 4,
-                        "startOffset": 5828,
+                        "startOffset": 6029,
                         "endLine": 206,
                         "endColumn": 19,
-                        "endOffset": 5995
+                        "endOffset": 6201
                     }
                 }
             },
@@ -1188,14 +1188,14 @@
                     "endOffset": 13008
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 185,
                         "startColumn": 4,
-                        "startOffset": 5347,
+                        "startOffset": 5532,
                         "endLine": 189,
                         "endColumn": 19,
-                        "endOffset": 5491
+                        "endOffset": 5680
                     }
                 }
             },
@@ -1209,14 +1209,14 @@
                     "endOffset": 13153
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 190,
                         "startColumn": 4,
-                        "startOffset": 5496,
+                        "startOffset": 5686,
                         "endLine": 194,
                         "endColumn": 19,
-                        "endOffset": 5636
+                        "endOffset": 5830
                     }
                 }
             },
@@ -1230,14 +1230,14 @@
                     "endOffset": 13462
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 129,
                         "startColumn": 4,
-                        "startOffset": 3490,
+                        "startOffset": 3619,
                         "endLine": 136,
                         "endColumn": 19,
-                        "endOffset": 3794
+                        "endOffset": 3930
                     }
                 }
             },
@@ -1251,14 +1251,14 @@
                     "endOffset": 13643
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 145,
                         "startColumn": 4,
-                        "startOffset": 4018,
+                        "startOffset": 4163,
                         "endLine": 149,
                         "endColumn": 19,
-                        "endOffset": 4194
+                        "endOffset": 4343
                     }
                 }
             },
@@ -1272,14 +1272,14 @@
                     "endOffset": 13801
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 150,
                         "startColumn": 4,
-                        "startOffset": 4199,
+                        "startOffset": 4349,
                         "endLine": 154,
                         "endColumn": 19,
-                        "endOffset": 4352
+                        "endOffset": 4506
                     }
                 }
             },
@@ -1293,14 +1293,14 @@
                     "endOffset": 14020
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 137,
                         "startColumn": 4,
-                        "startOffset": 3799,
+                        "startOffset": 3936,
                         "endLine": 144,
                         "endColumn": 19,
-                        "endOffset": 4013
+                        "endOffset": 4157
                     }
                 }
             },
@@ -1314,14 +1314,14 @@
                     "endOffset": 14197
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 175,
                         "startColumn": 4,
-                        "startOffset": 5012,
+                        "startOffset": 5187,
                         "endLine": 179,
                         "endColumn": 19,
-                        "endOffset": 5184
+                        "endOffset": 5363
                     }
                 }
             },
@@ -1335,14 +1335,14 @@
                     "endOffset": 14355
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 180,
                         "startColumn": 4,
-                        "startOffset": 5189,
+                        "startOffset": 5369,
                         "endLine": 184,
                         "endColumn": 19,
-                        "endOffset": 5342
+                        "endOffset": 5526
                     }
                 }
             },
@@ -1355,13 +1355,13 @@
                     "endOffset": 14403
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 1,
-                        "startOffset": 285,
+                        "startOffset": 293,
                         "endColumn": 44,
-                        "endOffset": 328
+                        "endOffset": 336
                     }
                 }
             },
@@ -1374,13 +1374,13 @@
                     "endOffset": 14450
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 1,
-                        "startOffset": 241,
+                        "startOffset": 248,
                         "endColumn": 43,
-                        "endOffset": 283
+                        "endOffset": 290
                     }
                 }
             },
@@ -1393,13 +1393,13 @@
                     "endOffset": 14495
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 199,
+                        "startOffset": 205,
                         "endColumn": 44,
-                        "endOffset": 239
+                        "endOffset": 245
                     }
                 }
             },
@@ -1412,13 +1412,13 @@
                     "endOffset": 14536
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 103,
+                        "startOffset": 107,
                         "endColumn": 40,
-                        "endOffset": 139
+                        "endOffset": 143
                     }
                 }
             },
@@ -1431,13 +1431,13 @@
                     "endOffset": 14577
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 1,
-                        "startOffset": 382,
+                        "startOffset": 392,
                         "endColumn": 37,
-                        "endOffset": 418
+                        "endOffset": 428
                     }
                 }
             },
@@ -1450,13 +1450,13 @@
                     "endOffset": 14624
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 59,
                         "endColumn": 46,
-                        "endOffset": 98
+                        "endOffset": 101
                     }
                 }
             },
@@ -1469,13 +1469,13 @@
                     "endOffset": 14679
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 1,
-                        "startOffset": 330,
+                        "startOffset": 339,
                         "endColumn": 51,
-                        "endOffset": 380
+                        "endOffset": 389
                     }
                 }
             },
@@ -1488,13 +1488,13 @@
                     "endOffset": 14734
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 144,
+                        "startOffset": 149,
                         "endColumn": 54,
-                        "endOffset": 194
+                        "endOffset": 199
                     }
                 }
             },
@@ -1507,13 +1507,13 @@
                     "endOffset": 14789
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 1,
-                        "startOffset": 472,
+                        "startOffset": 484,
                         "endColumn": 51,
-                        "endOffset": 522
+                        "endOffset": 534
                     }
                 }
             },
@@ -1526,13 +1526,13 @@
                     "endOffset": 14844
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 1,
-                        "startOffset": 420,
+                        "startOffset": 431,
                         "endColumn": 51,
-                        "endOffset": 470
+                        "endOffset": 481
                     }
                 }
             },
@@ -1545,13 +1545,13 @@
                     "endOffset": 14899
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 1,
-                        "startOffset": 524,
+                        "startOffset": 537,
                         "endColumn": 51,
-                        "endOffset": 574
+                        "endOffset": 587
                     }
                 }
             },
@@ -1564,7 +1564,7 @@
                     "endOffset": 14957
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1583,7 +1583,7 @@
                     "endOffset": 15013
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1602,13 +1602,13 @@
                     "endOffset": 15056
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 1,
-                        "startOffset": 1260,
+                        "startOffset": 1287,
                         "endColumn": 39,
-                        "endOffset": 1298
+                        "endOffset": 1325
                     }
                 }
             },
@@ -1621,13 +1621,13 @@
                     "endOffset": 15114
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 57,
                         "endColumn": 57,
-                        "endOffset": 108
+                        "endOffset": 110
                     }
                 }
             },
@@ -1640,13 +1640,13 @@
                     "endOffset": 15175
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 113,
+                        "startOffset": 116,
                         "endColumn": 60,
-                        "endOffset": 169
+                        "endOffset": 172
                     }
                 }
             },
@@ -1659,13 +1659,13 @@
                     "endOffset": 15226
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 358,
+                        "startOffset": 366,
                         "endColumn": 50,
-                        "endOffset": 404
+                        "endOffset": 412
                     }
                 }
             },
@@ -1678,13 +1678,13 @@
                     "endOffset": 15261
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 409,
+                        "startOffset": 418,
                         "endColumn": 42,
-                        "endOffset": 447
+                        "endOffset": 456
                     }
                 }
             },
@@ -1697,13 +1697,13 @@
                     "endOffset": 15312
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 1,
-                        "startOffset": 1596,
+                        "startOffset": 1631,
                         "endColumn": 47,
-                        "endOffset": 1642
+                        "endOffset": 1677
                     }
                 }
             },
@@ -1716,13 +1716,13 @@
                     "endOffset": 15352
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 1,
-                        "startOffset": 1353,
+                        "startOffset": 1382,
                         "endColumn": 44,
-                        "endOffset": 1396
+                        "endOffset": 1425
                     }
                 }
             },
@@ -1735,13 +1735,13 @@
                     "endOffset": 15408
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 1,
-                        "startOffset": 1300,
+                        "startOffset": 1328,
                         "endColumn": 52,
-                        "endOffset": 1351
+                        "endOffset": 1379
                     }
                 }
             },
@@ -1754,13 +1754,13 @@
                     "endOffset": 15453
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 1,
-                        "startOffset": 1553,
+                        "startOffset": 1587,
                         "endColumn": 41,
-                        "endOffset": 1593
+                        "endOffset": 1627
                     }
                 }
             },
@@ -1773,13 +1773,13 @@
                     "endOffset": 15514
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 1,
-                        "startOffset": 1202,
+                        "startOffset": 1228,
                         "endColumn": 57,
-                        "endOffset": 1258
+                        "endOffset": 1284
                     }
                 }
             },
@@ -1792,13 +1792,13 @@
                     "endOffset": 15574
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 1,
-                        "startOffset": 1145,
+                        "startOffset": 1170,
                         "endColumn": 56,
-                        "endOffset": 1200
+                        "endOffset": 1225
                     }
                 }
             },
@@ -1811,13 +1811,13 @@
                     "endOffset": 15635
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 1,
-                        "startOffset": 1784,
+                        "startOffset": 1823,
                         "endColumn": 57,
-                        "endOffset": 1840
+                        "endOffset": 1879
                     }
                 }
             },
@@ -1830,13 +1830,13 @@
                     "endOffset": 15682
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 1,
-                        "startOffset": 1900,
+                        "startOffset": 1941,
                         "endColumn": 43,
-                        "endOffset": 1942
+                        "endOffset": 1983
                     }
                 }
             },
@@ -1849,13 +1849,13 @@
                     "endOffset": 15736
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 1,
-                        "startOffset": 1733,
+                        "startOffset": 1771,
                         "endColumn": 50,
-                        "endOffset": 1782
+                        "endOffset": 1820
                     }
                 }
             },
@@ -1868,13 +1868,13 @@
                     "endOffset": 15797
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 1,
-                        "startOffset": 1842,
+                        "startOffset": 1882,
                         "endColumn": 57,
-                        "endOffset": 1898
+                        "endOffset": 1938
                     }
                 }
             },
@@ -1887,13 +1887,13 @@
                     "endOffset": 15846
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 1,
-                        "startOffset": 1944,
+                        "startOffset": 1986,
                         "endColumn": 45,
-                        "endOffset": 1988
+                        "endOffset": 2030
                     }
                 }
             },
@@ -1906,13 +1906,13 @@
                     "endOffset": 15892
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 1,
-                        "startOffset": 671,
+                        "startOffset": 685,
                         "endColumn": 42,
-                        "endOffset": 712
+                        "endOffset": 726
                     }
                 }
             },
@@ -1925,13 +1925,13 @@
                     "endOffset": 15927
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 1,
-                        "startOffset": 714,
+                        "startOffset": 729,
                         "endColumn": 39,
-                        "endOffset": 752
+                        "endOffset": 767
                     }
                 }
             },
@@ -1944,13 +1944,13 @@
                     "endOffset": 15979
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 1,
-                        "startOffset": 958,
+                        "startOffset": 979,
                         "endColumn": 48,
-                        "endOffset": 1005
+                        "endOffset": 1026
                     }
                 }
             },
@@ -1963,13 +1963,13 @@
                     "endOffset": 16035
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 1,
-                        "startOffset": 754,
+                        "startOffset": 770,
                         "endColumn": 52,
-                        "endOffset": 805
+                        "endOffset": 821
                     }
                 }
             },
@@ -1982,13 +1982,13 @@
                     "endOffset": 16096
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 1,
-                        "startOffset": 1087,
+                        "startOffset": 1111,
                         "endColumn": 57,
-                        "endOffset": 1143
+                        "endOffset": 1167
                     }
                 }
             },
@@ -2001,13 +2001,13 @@
                     "endOffset": 16151
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 1,
-                        "startOffset": 906,
+                        "startOffset": 926,
                         "endColumn": 51,
-                        "endOffset": 956
+                        "endOffset": 976
                     }
                 }
             },
@@ -2020,13 +2020,13 @@
                     "endOffset": 16201
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 1,
-                        "startOffset": 2074,
+                        "startOffset": 2119,
                         "endColumn": 46,
-                        "endOffset": 2119
+                        "endOffset": 2164
                     }
                 }
             },
@@ -2039,13 +2039,13 @@
                     "endOffset": 16261
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 1,
-                        "startOffset": 809,
+                        "startOffset": 827,
                         "endColumn": 56,
-                        "endOffset": 864
+                        "endOffset": 882
                     }
                 }
             },
@@ -2058,13 +2058,13 @@
                     "endOffset": 16315
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 1,
-                        "startOffset": 1445,
+                        "startOffset": 1476,
                         "endColumn": 50,
-                        "endOffset": 1494
+                        "endOffset": 1525
                     }
                 }
             },
@@ -2077,13 +2077,13 @@
                     "endOffset": 16350
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 315,
+                        "startOffset": 322,
                         "endColumn": 42,
-                        "endOffset": 353
+                        "endOffset": 360
                     }
                 }
             },
@@ -2096,13 +2096,13 @@
                     "endOffset": 16401
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 217,
+                        "startOffset": 222,
                         "endColumn": 50,
-                        "endOffset": 263
+                        "endOffset": 268
                     }
                 }
             },
@@ -2115,13 +2115,13 @@
                     "endOffset": 16444
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 1,
-                        "startOffset": 1007,
+                        "startOffset": 1029,
                         "endColumn": 39,
-                        "endOffset": 1045
+                        "endOffset": 1067
                     }
                 }
             },
@@ -2134,13 +2134,13 @@
                     "endOffset": 16487
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 1,
-                        "startOffset": 866,
+                        "startOffset": 885,
                         "endColumn": 39,
-                        "endOffset": 904
+                        "endOffset": 923
                     }
                 }
             },
@@ -2153,13 +2153,13 @@
                     "endOffset": 16530
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 1,
-                        "startOffset": 1047,
+                        "startOffset": 1070,
                         "endColumn": 39,
-                        "endOffset": 1085
+                        "endOffset": 1108
                     }
                 }
             },
@@ -2172,13 +2172,13 @@
                     "endOffset": 16582
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 1,
-                        "startOffset": 622,
+                        "startOffset": 635,
                         "endColumn": 48,
-                        "endOffset": 669
+                        "endOffset": 682
                     }
                 }
             },
@@ -2191,13 +2191,13 @@
                     "endOffset": 16640
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 1,
-                        "startOffset": 1498,
+                        "startOffset": 1531,
                         "endColumn": 54,
-                        "endOffset": 1551
+                        "endOffset": 1584
                     }
                 }
             },
@@ -2210,13 +2210,13 @@
                     "endOffset": 16689
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 1,
-                        "startOffset": 1644,
+                        "startOffset": 1680,
                         "endColumn": 45,
-                        "endOffset": 1688
+                        "endOffset": 1724
                     }
                 }
             },
@@ -2229,13 +2229,13 @@
                     "endOffset": 16739
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 1,
-                        "startOffset": 1398,
+                        "startOffset": 1428,
                         "endColumn": 46,
-                        "endOffset": 1443
+                        "endOffset": 1473
                     }
                 }
             },
@@ -2248,13 +2248,13 @@
                     "endOffset": 16784
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 1,
-                        "startOffset": 1690,
+                        "startOffset": 1727,
                         "endColumn": 41,
-                        "endOffset": 1730
+                        "endOffset": 1767
                     }
                 }
             },
@@ -2267,13 +2267,13 @@
                     "endOffset": 16831
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 268,
+                        "startOffset": 274,
                         "endColumn": 46,
-                        "endOffset": 310
+                        "endOffset": 316
                     }
                 }
             },
@@ -2286,13 +2286,13 @@
                     "endOffset": 16874
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 174,
+                        "startOffset": 178,
                         "endColumn": 42,
-                        "endOffset": 212
+                        "endOffset": 216
                     }
                 }
             },
@@ -2305,13 +2305,13 @@
                     "endOffset": 16949
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 1,
-                        "startOffset": 449,
+                        "startOffset": 459,
                         "endColumn": 71,
-                        "endOffset": 519
+                        "endOffset": 529
                     }
                 }
             },
@@ -2324,13 +2324,13 @@
                     "endOffset": 17021
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 1,
-                        "startOffset": 521,
+                        "startOffset": 532,
                         "endColumn": 68,
-                        "endOffset": 588
+                        "endOffset": 599
                     }
                 }
             },
@@ -2343,13 +2343,13 @@
                     "endOffset": 17056
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 1,
-                        "startOffset": 590,
+                        "startOffset": 602,
                         "endColumn": 31,
-                        "endOffset": 620
+                        "endOffset": 632
                     }
                 }
             },
@@ -2362,13 +2362,13 @@
                     "endOffset": 17101
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 1,
-                        "startOffset": 2032,
+                        "startOffset": 2076,
                         "endColumn": 41,
-                        "endOffset": 2072
+                        "endOffset": 2116
                     }
                 }
             },
@@ -2381,13 +2381,13 @@
                     "endOffset": 17146
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 1,
-                        "startOffset": 1990,
+                        "startOffset": 2033,
                         "endColumn": 41,
-                        "endOffset": 2030
+                        "endOffset": 2073
                     }
                 }
             },
@@ -2401,14 +2401,14 @@
                     "endOffset": 17249
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 115,
+                        "startOffset": 118,
                         "endLine": 5,
                         "endColumn": 12,
-                        "endOffset": 213
+                        "endOffset": 218
                     }
                 }
             },
@@ -2422,14 +2422,14 @@
                     "endOffset": 17404
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 219,
+                        "startOffset": 226,
                         "endLine": 10,
                         "endColumn": 12,
-                        "endOffset": 369
+                        "endOffset": 379
                     }
                 }
             }

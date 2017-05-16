@@ -32,7 +32,8 @@ public class ConfigParse {
 			e.printStackTrace();
 			Log.d(TAG, "file does not exist" + FileName);
 			//throws IOException;
-		} catch (IOException e) {
+		}
+		catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
@@ -69,7 +70,6 @@ public class ConfigParse {
 		
 		while ((Line = br.readLine()) != null)
 		{
-			//´¦Àí¿ÕÐÐ
 			if (Line.equals(""))
 			{
 				continue;

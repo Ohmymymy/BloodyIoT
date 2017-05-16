@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\BS\Software\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\BS\Files\BloodyIoT\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_3eb748afb7607c14afd8ab8c5f15c4a69a186132.jar" />
+    </item>
+
+</items>
