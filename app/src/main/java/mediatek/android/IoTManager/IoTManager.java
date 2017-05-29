@@ -15,8 +15,7 @@ import android.widget.Toast;
 import android.widget.TabHost.OnTabChangeListener;
 import android.util.Log;
 
-public class IoTManager extends TabActivity implements
-OnTabChangeListener{    
+public class IoTManager extends TabActivity implements OnTabChangeListener{
 	private TabHost myTabhost;
 	
 	public void onDestroy() {
@@ -24,8 +23,7 @@ OnTabChangeListener{
 		super.onDestroy();
 	}
     @Override
-	public void onCreate(Bundle savedInstanceState) {
-		super.onCreate(savedInstanceState);
+	public void onCreate(Bundle savedInstanceState) {super.onCreate(savedInstanceState);
 	
 		myTabhost = this.getTabHost();
 
