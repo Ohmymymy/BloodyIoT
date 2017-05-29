@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\BloodyIoT\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\AndroidStudioProjects\BloodyIoT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_183de41784fd8c28ce610f7a1b9ccbc39ab55bf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\BloodyIoT\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b47891ac314a2d8eb078f98bda1d1ef170e9be97">
+        <dex dex="D:\AndroidStudioProjects\BloodyIoT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4bb7dc803e1d17f58cc6075f939ecac811e8a28d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\AndroidStudioProjects\BloodyIoT\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b\classes.dex" />
+    </item>
+
+</items>

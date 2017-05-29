@@ -69,7 +69,6 @@ public class ConfigParse {
 		
 		while ((Line = br.readLine()) != null)
 		{
-			//´¦Àí¿ÕÐÐ
 			if (Line.equals(""))
 			{
 				continue;

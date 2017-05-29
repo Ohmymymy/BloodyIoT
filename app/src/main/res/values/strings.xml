@@ -8,7 +8,9 @@
     <string name="password_edit"></string>
     <string name="authmode_text">AuthMode</string>
     <string name="authmode_view"></string>
-	<string name="start_button">Start\nAPI:StartSmartConnection()</string>
+	<!--string name="start_button">Start\nAPI:StartS</string>-->
+	<string name="start_button">Start\nAPI:StartS</string>
+<!--	<string name="stop_button">Stop\nAPI:StopSmartConnection()</string>-->
 	<string name="stop_button">Stop\nAPI:StopSmartConnection()</string>
 	<string name="temp">:</string>
 	<string name="pwd_check">Show Password</string>

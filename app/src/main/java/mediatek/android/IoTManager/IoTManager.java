@@ -29,18 +29,14 @@ OnTabChangeListener{
 	
 		myTabhost = this.getTabHost();
 
-		Intent iSmartConnection = new Intent(this,
-				SmartConnection.class);		
-		Intent iIoTManagement = new Intent(this,
-				IoTManagement.class);		
+		Intent iSmartConnection = new Intent(this, SmartConnection.class);
+		Intent iIoTManagement = new Intent(this, IoTManagement.class);
 		
 		iSmartConnection.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
 		iIoTManagement.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
 		
-		myTabhost.addTab(myTabhost.newTabSpec("SmartConnection").setIndicator("SmartConnection",
-				null).setContent(iSmartConnection));
-		myTabhost.addTab(myTabhost.newTabSpec("IoTManagement").setIndicator("Management",
-				null).setContent(iIoTManagement));
+		myTabhost.addTab(myTabhost.newTabSpec("SmartConnection").setIndicator("SmartConnection", null).setContent(iSmartConnection));
+		myTabhost.addTab(myTabhost.newTabSpec("IoTManagement").setIndicator("Management", null).setContent(iIoTManagement));
 
 		myTabhost.setOnTabChangedListener(this);	
 	}

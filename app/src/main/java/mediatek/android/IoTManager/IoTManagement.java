@@ -95,8 +95,7 @@ public class IoTManagement extends ListActivity {
 */
 		mListClients = new ListClients();
 //		mListClients.UpdataList(ClientInfoList);
-		ListView_ClientsAdaper = new lvButtonAdapter(
-										this, 
+		ListView_ClientsAdaper = new lvButtonAdapter(this,
 										mListClients.getData(), 
 										R.layout.clientlist, 
 										new String[]{"id", 

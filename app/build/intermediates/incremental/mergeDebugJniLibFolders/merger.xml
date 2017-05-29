@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\jniLibs"><file name="armeabi/libIoT_manager_jni.so" path="D:\AndroidStudioProjects\BloodyIoT\app\src\main\jniLibs\armeabi\libIoT_manager_jni.so"/></source></dataSet><dataSet config="debug"><source path="D:\AndroidStudioProjects\BloodyIoT\app\src\debug\jniLibs"/></dataSet></merger>
