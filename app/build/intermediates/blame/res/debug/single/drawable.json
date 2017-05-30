@@ -1,11 +1,19 @@
 [
     {
+        "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bkgd.jpg",
+        "source": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\drawable\\bkgd.jpg"
+    },
+    {
         "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_c.png",
         "source": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\drawable\\tab_c.png"
     },
     {
-        "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bkgd.jpg",
-        "source": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\drawable\\bkgd.jpg"
+        "merged": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yellow.png",
+        "source": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\drawable\\yellow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green.png",
+        "source": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\drawable\\green.png"
     },
     {
         "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.png",
@@ -14,6 +22,10 @@
     {
         "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gimp.png",
         "source": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\drawable\\gimp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_green.png",
+        "source": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\drawable\\back_green.png"
     },
     {
         "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\satred.png",
@@ -28,8 +40,20 @@
         "source": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\drawable\\water.png"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_new.png",
+        "source": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\drawable\\green_new.png"
+    },
+    {
         "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_new.png",
         "source": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\drawable\\green_new.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\let_dark.png",
+        "source": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\drawable\\let_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\let_bright.png",
+        "source": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\drawable\\let_bright.png"
     },
     {
         "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unknown.png",
@@ -68,6 +92,10 @@
         "source": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\drawable\\back_red.png"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\let.png",
+        "source": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\drawable\\let.png"
+    },
+    {
         "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar.xml",
         "source": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\drawable\\progressbar.xml"
     },
@@ -100,6 +128,10 @@
         "source": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\drawable\\green.png"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar.xml",
+        "source": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
         "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\let.png",
         "source": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\drawable\\let.png"
     },
@@ -110,6 +142,10 @@
     {
         "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_a.png",
         "source": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\drawable\\tab_a.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iot.png",
+        "source": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\drawable\\iot.png"
     },
     {
         "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leaf.png",

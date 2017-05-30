@@ -1,7 +1,19 @@
 [
     {
+        "merged": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\smartconnection.xml",
+        "source": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\layout\\smartconnection.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
         "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\smartconnection.xml",
         "source": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\layout\\smartconnection.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\clientlist.xml",
+        "source": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\layout\\clientlist.xml"
     },
     {
         "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\management.xml",
@@ -12,8 +24,16 @@
         "source": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
         "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\clientlist.xml",
         "source": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\layout\\clientlist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\management.xml",
+        "source": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\layout\\management.xml"
     },
     {
         "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",

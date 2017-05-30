@@ -2,5 +2,9 @@
     {
         "merged": "E:\\BS\\Files\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "E:\\BS\\Files\\BloodyIoT\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\AndroidStudioProjects\\BloodyIoT\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]

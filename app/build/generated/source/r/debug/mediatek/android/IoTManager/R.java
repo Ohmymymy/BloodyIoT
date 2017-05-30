@@ -96,41 +96,16 @@ public final class R {
         public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int ad_hoc=0x7f020000;
-        public static final int back_blue=0x7f020001;
-        public static final int back_green=0x7f020002;
-        public static final int back_red=0x7f020003;
-        public static final int bg=0x7f020004;
-        public static final int bkgd=0x7f020005;
-        public static final int btn_fm_decrease=0x7f020006;
-        public static final int btn_fm_increase=0x7f020007;
-        public static final int button=0x7f020008;
-        public static final int computer=0x7f020009;
-        public static final int gimp=0x7f02000a;
-        public static final int green=0x7f02000b;
-        public static final int green_new=0x7f02000c;
-        public static final int ic_launcher=0x7f02000d;
-        public static final int icon=0x7f02000e;
-        public static final int infrastructure=0x7f02000f;
-        public static final int iot=0x7f020010;
-        public static final int leaf=0x7f020011;
-        public static final int leaf_new=0x7f020012;
-        public static final int leaf_water=0x7f020013;
-        public static final int let=0x7f020014;
-        public static final int let_bright=0x7f020015;
-        public static final int let_dark=0x7f020016;
-        public static final int mumule=0x7f020017;
-        public static final int notepad=0x7f020018;
-        public static final int phone=0x7f020019;
-        public static final int progressbar=0x7f02001a;
-        public static final int satgreen=0x7f02001b;
-        public static final int satred=0x7f02001c;
-        public static final int tab_a=0x7f02001d;
-        public static final int tab_b=0x7f02001e;
-        public static final int tab_c=0x7f02001f;
-        public static final int unknown=0x7f020020;
-        public static final int water=0x7f020021;
-        public static final int yellow=0x7f020022;
+        public static final int back_green=0x7f020000;
+        public static final int green=0x7f020001;
+        public static final int green_new=0x7f020002;
+        public static final int ic_launcher=0x7f020003;
+        public static final int iot=0x7f020004;
+        public static final int let=0x7f020005;
+        public static final int let_bright=0x7f020006;
+        public static final int let_dark=0x7f020007;
+        public static final int progressbar=0x7f020008;
+        public static final int yellow=0x7f020009;
     }
     public static final class id {
         public static final int AddFriend=0x7f0a002b;
@@ -174,10 +149,9 @@ public final class R {
         public static final int Uart_Rx=0x7f0a0010;
         public static final int Uart_Tx=0x7f0a0012;
         public static final int View_Uart_Rx=0x7f0a0011;
-        public static final int action_settings=0x7f0a0031;
+        public static final int action_settings=0x7f0a0030;
         public static final int gpio_l=0x7f0a0006;
         public static final int img=0x7f0a0000;
-        public static final int loadProgressBar=0x7f0a0030;
         public static final int product=0x7f0a0003;
         public static final int producttype=0x7f0a0004;
         public static final int user=0x7f0a0016;
